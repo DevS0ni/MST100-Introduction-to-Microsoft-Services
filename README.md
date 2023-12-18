@@ -2,6 +2,7 @@
 
 This repository contains all of my work which I performed in the above mentioned course.
 - Labs Inclass (#9)
+- Quizzes      (#2)
 
 ----------------------------------------
 Course Description
@@ -22,6 +23,22 @@ After successful completion of this course, it helped me to...
     resources on a network.
   * Troubleshoot errors and problems with computers and the network to ensure the systems are always available.
   * Utilize the command line and scripting tools to perform administration and automate routine tasks.
+  * Gained a handsome knowledge on all of the topics of Data Structures & Algorithms namely-
+     > Microsoft Technologies – 20%
+        - Windows Server
+        - Virtualization
+        - Introduction to the Cloud
+        - Windows Networking
+        - Introduction to TCP/IP
+     > Windows Administration - 60%
+        - Defining Server Editions 
+        - Installing Server
+        - Configuring Windows Server Environment
+        - Active Directory and Account Management
+     > Command Line - 20%
+        - Absolute and Relative Paths
+        - Managing Files and Folders from the Command Line
+        - PowerShell and Basic Scripting
 ```
 ----------------------------------------
 Technologies & Tools Used for the Course
