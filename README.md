@@ -1,1 +1,1 @@
-# MST100-Introduction_To_Microsoft_Services
+# MST100 - Introduction to Microsoft Services
