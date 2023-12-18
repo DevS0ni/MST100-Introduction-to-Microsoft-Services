@@ -23,7 +23,7 @@ After successful completion of this course, it helped me to...
     resources on a network.
   * Troubleshoot errors and problems with computers and the network to ensure the systems are always available.
   * Utilize the command line and scripting tools to perform administration and automate routine tasks.
-  * Gained a handsome knowledge on all of the topics of Data Structures & Algorithms namely-
+  * Gained a handsome knowledge on all of the topics of Microsoft Technologies & Securities namely-
      > Microsoft Technologies – 20%
         - Windows Server
         - Virtualization
